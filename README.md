@@ -9,6 +9,9 @@
 2. All students who appears in Linguistic exams where they face Paragraph based Questions.
 3. Teachers who struggle to frame quality questions for their students.
 
+# How this help to target audience
+Just Enter the paragraph on which you want to frame the questions and HIT ENTER. Hurray, you are good to go and you will see ample of quality questions !
+
 # How does this work ? 
 1. Initially parses the main content of the paragraph.
 2. It parses all the sentences and extract key phrases.
