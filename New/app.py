@@ -8,7 +8,7 @@ def index():
     if request.method == 'POST':
         video_url = request.form['video_url']
         thumbnail_url = generate_thumbnail(video_url)
-        return render_template('index.html', thumbnail_url=thumbnail_url)
+        return render_template('index1.html', thumbnail_url=thumbnail_url)
     else:
         return render_template('index.html')
 
