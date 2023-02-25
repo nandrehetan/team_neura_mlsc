@@ -18,3 +18,6 @@ Just Enter the paragraph on which you want to frame the questions and HIT ENTER.
 3. Identifies potential questions.
 4. Generates set of appropriate questions.
 
+# Here goes the project live....... 
+https://team-neura-mlsc.vercel.app/
+
