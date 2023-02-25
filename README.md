@@ -3,6 +3,8 @@
 
 # Problem Statement
 1. Generate questions from a paragraph using artificial intelligence(AI) to automatically detect the key topics and provide an efficient way to ask relevant questions.
+<h3>Background</h3>In India  there is always a section for seen and unseen passage for student in there language paper , so sometime teacher don't have time to take answer for each passages , so this project can help teachers to take out important, quality and fun questions for there studentswhich they have chosen. 
+
 
 # Target Audience
 1. Aspirants of Civil Services Exams.
